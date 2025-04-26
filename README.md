@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/todo-list.git
+    git clone git@github.com:saron03/Todo-List.git
     ```
 
 2. Navigate to the project directory:
