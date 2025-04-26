@@ -47,8 +47,6 @@ To set up the project locally, follow these steps:
     npm start
     ```
 
-    ---
-
 ## Resources
 
 [The Odin Project](https://www.theodinproject.com/) 
